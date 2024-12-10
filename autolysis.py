@@ -17,7 +17,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from typing import Dict, Any
 
-os.environ["AIPROXY_TOKEN"] = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDIzNjRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.Z4Jf0iLBOMYYjUHUyL3ZipWrrUL1NVsDL4Ko-rxsSfE"
+
 
 class AutomatedAnalysis:
     def __init__(self, dataset_path: str):
